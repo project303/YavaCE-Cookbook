@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor fer
 Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor.
 
 <div id="Chapter1"></div>
-Chapter 1
+Chapter 1 <br>
 -----------------
 
 Here I used a `div` element. I think this is the best solution. According to some comments, if you use the `span` tag, you must add an empty line.
