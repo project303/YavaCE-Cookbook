@@ -12,7 +12,7 @@ wget https://yava.labs247.id/download/116801/
 wget https://yava.labs247.id/download/116796/
 ```
 3. Setelah selesai, maka kita akan memperoleh file ambari_2.7.3-yavace-repo-3.1907-24.noarch.rpm dan yavace-core_3.1907-yavace-repo-3.1907-24.noarch.rpm
-4. Validasi kedua file tersebut dengan membandingkan nilai md5 dengan yang tertera dalam websita
+4. Validasi kedua file tersebut dengan membandingkan nilai md5 dengan yang tertera dalam website
 ```bash
 md5sum ambari_2.7.3-yavace-repo-3.1907-24.noarch.rpm
 md5sum yavace-core_3.1907-yavace-repo-3.1907-24.noarch.rpm
