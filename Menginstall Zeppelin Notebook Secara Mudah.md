@@ -26,6 +26,7 @@ by running conda init? [yes|no]
 [no] >>>
 ```
 ketik yes
+
 4. Buat environment baru pada Miniconda yang digunakan untuk menjalankan Apache Zeppelin. Environment ini kita berinama zeppelin, dengan menginstal library tambahan seperti numpy, pandas, scipy dan seaborn.
 ```bash
 conda create --name zeppelin python=2.7 numpy pandas scipy seaborn
