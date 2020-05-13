@@ -10,7 +10,6 @@ Penghitungan ini terdiri dari 3 komponen:
     3. TeraValidate - digunakan untuk memvalidasi hasil pengurutan data
 Sebagai catatan Yahoo pernah membuat record di tahun 2008, dengan mengurutkan data sebesar 1 TB dalam waktu 209 detik menggunakan 910 nodes.
 
-File notebook zeppelin dapat di download : 
 
 ## Langka-langkah
 
