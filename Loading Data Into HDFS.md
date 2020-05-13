@@ -1,4 +1,4 @@
-Loading Data Into HDFS
+Upload Data ke dalam HDFS
 =====================================================
 
 HDFS atau Hadoop Distributed File System adalah file system yang digunakan oleh Hadoop dalam menyimpan dan mengolah file. Untuk dapat menggunakan distributed processing yang disediakan oleh Hadoop maka file-file yang akan diproses harus dimasukkan ke dalam HDFS. Hadoop akan memecah dan mendistribusikan file tersebut ke dalam node-node yang tersedia.
