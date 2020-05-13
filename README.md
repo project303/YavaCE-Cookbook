@@ -11,5 +11,8 @@ Repository ini berisi kumpulan resep-resep singkat dan praktis yang mudah untuk 
 5. [Instalasi Zeppelin Notebook Secara Mudah](https://github.com/project303/YavaCE-Cookbook/blob/master/Menginstall%20Zeppelin%20Notebook%20Secara%20Mudah.md)
 6. [Hadoop Stress Test](https://github.com/project303/YavaCE-Cookbook/blob/master/Hadoop%20Stress%20Test.md)
 7. [Upload Data ke dalam HDFS](https://github.com/project303/YavaCE-Cookbook/blob/master/Loading%20Data%20Into%20HDFS.md)
+8. [Analisa Sederhana Dataset Movielens Menggunakan Hive](https://www.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/Analyzing%20MovieLens%20Dataset%20Using%20Hive.json)
+9. [Analisa Pengguna Dataset Movielens Menggunakan pySpark](https://www.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/User%20Analytics%20the%20MovieLens%20Dataset%20with%20pySpark%20and%20Spark%20Dataframe.json)
+10. [Model Rekomendasi Film](https://www.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/Movie%20Recomendation%20System.json)
 
 
