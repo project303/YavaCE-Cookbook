@@ -8,5 +8,8 @@ Repository ini berisi kumpulan resep-resep singkat dan praktis yang mudah untuk 
 2. [Mengkonfigurasi Server](https://github.com/project303/YavaCE-Cookbook/blob/master/Mengkonfigurasi%20Host.md)
 3. [Instalasi Ambari Server](https://github.com/project303/YavaCE-Cookbook/blob/master/Instalasi%20Ambari%20Server.md)
 4. [Instalasi Single Node YavaCE](https://github.com/project303/YavaCE-Cookbook/blob/master/Instalasi%20Single%20Node%20YavaCE.md)
+5. [Instalasi Zeppelin Notebook Secara Mudah](https://github.com/project303/YavaCE-Cookbook/blob/master/Menginstall%20Zeppelin%20Notebook%20Secara%20Mudah.md)
+6. [Hadoop Stress Test](https://github.com/project303/YavaCE-Cookbook/blob/master/Hadoop%20Stress%20Test.md)
+7. [Upload Data ke dalam HDFS](https://github.com/project303/YavaCE-Cookbook/blob/master/Loading%20Data%20Into%20HDFS.md)
 
 
