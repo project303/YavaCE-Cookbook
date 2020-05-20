@@ -6,29 +6,24 @@ YavaCE adalah platform big data yang merupakan versi komunitas dari Yava247 Data
 1. Distributed Processing <br>
 Hadoop distributed processing memberikan kemudahan dala untuk mengolah data yang sangat besar dengan cepat. 
 
-2. Stream Processing
-
+2. Stream Processing <br>
 Data-data yang datang secara realtime dapat diolah dengan cepat
 
-3. SQL Analytics on Hadoop
-
+3. SQL Analytics on Hadoop <br>
 SQL interface memberikan kemudahan dalam mengolah dan menganalisa data terstruktur
 
-4. Machine Learning
-
+4. Machine Learning <br>
 Scalable machine learning
 
 ## Usage
-1. Educational
+1. Educational <br>
+Dengan memulai dari sesuatu yang sederhana, akan mempermudah dalam penguasaan Big Data
 
-Banyak orang masih bingung harus memulai darimana untuk terjun kedalam Big Data.
-
-2. POC/Trial
-
+2. POC/Trial <br>
 Big data sudah menjadi suatu keharusan, tetapi masih banyak yang ragu apakah mampu menyelesaikan permasalahan yang dihadapi? YavaCE dapat menjadi platfrom untuk melakukan pengujian berbagai usecase diatas Big Data.
 
-3. Research
-Banyak banyak hal dapat dikembangkan di atas big data
+3. Research <br>
+Banyak topik riset yang dapat dikembangkan di atas big data
 <br>
 Repository ini berisi kumpulan resep-resep singkat dan praktis yang mudah untuk diikuti dalam melakukan pengolahan dan menganalisa data menggunakan YavaCE.
 <br>
