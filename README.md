@@ -20,7 +20,7 @@ Scalable machine learning
 Dengan memulai dari sesuatu yang sederhana, akan mempermudah dalam penguasaan Big Data
 
 2. POC/Trial <br>
-Big data sudah menjadi suatu keharusan, tetapi masih banyak yang ragu apakah mampu menyelesaikan permasalahan yang dihadapi? YavaCE dapat menjadi platfrom untuk melakukan pengujian berbagai usecase diatas Big Data.
+YavaCE dapat menjadi platfrom untuk melakukan pengujian berbagai usecase diatas Big Data.
 
 3. Research <br>
 Banyak topik riset yang dapat dikembangkan di atas big data
