@@ -3,8 +3,7 @@
 YavaCE adalah platform big data yang merupakan versi komunitas dari Yava247 Data Management Platform. Platform versi komunitas ini ditujukan untuk siapa saja yang ingin memulai dan mempelajari pengolahan data menggunakan Hadoop, MapReduce, Hive dan Spark.
 <br>
 ## Feature
-1. Distributed Processing
-
+1. Distributed Processing <br>
 Hadoop distributed processing memberikan kemudahan dala untuk mengolah data yang sangat besar dengan cepat. 
 
 2. Stream Processing
