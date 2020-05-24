@@ -3,6 +3,7 @@
 ## YavaCE - Quick and easy to kick-start your big data journey
 YavaCE is a big data platform which is a community version of Yava247 Data Management Platform. This community version platform is intended for anyone who wants to start and learn data processing using Hadoop, MapReduce, Hive and Spark
 <br>
+
 [Download YavaCE now](https://yava.labs247.id/download_box)
 
 
