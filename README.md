@@ -1,31 +1,37 @@
 # YavaCE Cookbooks
 
-YavaCE adalah platform big data yang merupakan versi komunitas dari Yava247 Data Management Platform. Platform versi komunitas ini ditujukan untuk siapa saja yang ingin memulai dan mempelajari pengolahan data menggunakan Hadoop, MapReduce, Hive dan Spark.
+## YavaCE - Quick and easy to kick-start your big data journey
+YavaCE is a big data platform which is a community version of Yava247 Data Management Platform. This community version platform is intended for anyone who wants to start and learn data processing using Hadoop, MapReduce, Hive and Spark
 <br>
+[Download YavaCE now](https://yava.labs247.id/download_box)
+
+
 ## Feature
 1. Distributed Processing <br>
-Hadoop distributed processing memberikan kemudahan dala untuk mengolah data yang sangat besar dengan cepat. 
+Hadoop and Spark have been proven as distributed processing give you high performance data processing
 
 2. Stream Processing <br>
-Data-data yang datang secara realtime dapat diolah dengan cepat
+Spark Streaming lets you reuse the same code for batch processing, join streams against historical data
 
 3. SQL Analytics on Hadoop <br>
-SQL interface memberikan kemudahan dalam mengolah dan menganalisa data terstruktur
+Hive and SparkSQL provide convenience in processing and analyzing structured data
 
 4. Machine Learning <br>
-Scalable machine learning
+Spark Machine Learning library make practical machine learning scalable and easy at a high level
+
 
 ## Usage
 1. Educational <br>
-Dengan memulai dari sesuatu yang sederhana, akan mempermudah dalam penguasaan Big Data
+Starting from something simple, will make it easier to master Big Data
 
 2. POC/Trial <br>
-YavaCE dapat menjadi platfrom untuk melakukan pengujian berbagai usecase diatas Big Data.
+YavaCE can be a platform for testing various use cases on Big Data.
 
 3. Research <br>
-Banyak topik riset yang dapat dikembangkan di atas big data
+Open source technology enables various of research topics that can be developed on big data
 <br>
-Repository ini berisi kumpulan resep-resep singkat dan praktis yang mudah untuk diikuti dalam melakukan pengolahan dan menganalisa data menggunakan YavaCE.
+
+This repository contains a collection of short and practical recipes that are easy to follow in processing and analyzing data using YavaCE
 <br>
 
 1. [Mempersiapkan Hardware dan Sistem Operasi](https://github.com/project303/YavaCE-Cookbook/blob/master/Persiapan%20Hardware.md)
