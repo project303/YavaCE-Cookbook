@@ -49,10 +49,10 @@ This repository contains a collection of short and practical recipes that are ea
 
 7. [Upload Data ke dalam HDFS](https://github.com/project303/YavaCE-Cookbook/blob/master/Loading%20Data%20Into%20HDFS.md)
 
-8. [Analisa Sederhana Dataset Movielens Menggunakan Hive](https://www.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/Analyzing%20MovieLens%20Dataset%20Using%20Hive.json)
+8. [Analisa Sederhana Dataset Movielens Menggunakan Hive](https://app.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/Analyzing%20MovieLens%20Dataset%20Using%20Hive.json)
 
-9. [Analisa Pengguna Dataset Movielens Menggunakan pySpark](https://www.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/User%20Analytics%20the%20MovieLens%20Dataset%20with%20pySpark%20and%20Spark%20Dataframe.json)
+9. [Analisa Pengguna Dataset Movielens Menggunakan pySpark](https://app.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/User%20Analytics%20the%20MovieLens%20Dataset%20with%20pySpark%20and%20Spark%20Dataframe.json)
 
-10. [Model Rekomendasi Film](https://www.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/Movie%20Recomendation%20System.json)
+10. [Model Rekomendasi Film](https://app.zepl.com/viewer/github/project303/YavaCE-Cookbook/blob/master/Movie%20Recomendation%20System.json)
 
 
