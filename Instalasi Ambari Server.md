@@ -24,7 +24,7 @@ yum install -y yavace-core_3.1907-yavace-repo-3.1907-24.noarch.rpm
 ```
 6. Install Ambari Server
 ```bash
-yum install -y ambari-serverAmbari URL
+yum install -y ambari-server
 ```
 7. Lakukan konfigurasi Ambari Server, dengan opsi default
 ```bash
