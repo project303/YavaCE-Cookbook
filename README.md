@@ -11,11 +11,11 @@ YavaCE is a big data platform which is a community version of Yava247 Data Manag
 1. Distributed Processing <br>
 Hadoop and Spark have been proven as distributed processing give you high performance data processing
 
-2. Stream Processing <br>
-Spark Streaming lets you reuse the same code for batch processing, join streams against historical data
-
-3. SQL Analytics on Hadoop <br>
+2. SQL Analytics on Hadoop <br>
 Hive and SparkSQL provide convenience in processing and analyzing structured data
+
+3. Stream Processing <br>
+Spark Streaming lets you reuse the same code for batch processing, join streams against historical data
 
 4. Machine Learning <br>
 Spark Machine Learning library make practical machine learning scalable and easy at a high level
