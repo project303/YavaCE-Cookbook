@@ -46,7 +46,7 @@ ulimit -n 10000
 ```
 10. Mendisable SELinux dengan mungubah nilai SELINUX menjadi disabled
 ```bash
-vi /etc/selinux/config
+sed -i 's/^SELINUX=.*/SELINUX=disabled/' /etc/selinux/config
 ```
 11. Set umask proﬁle
 ```bash
