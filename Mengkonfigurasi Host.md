@@ -73,7 +73,15 @@ Uji coba koneksi
 ```bash
 ssh root@yavace3.labs247.id
 ```
-13. Restart server
+13. Pastikan time zone pada server terkonfigurasi Jakarta
+```bash
+timedatectl set-timezone Asia/Jakarta
+```
+Periksa kembali timezone
+```bash
+timedatectl
+```
+14. Restart server
 ```bash
 shutdown -r now
 ```
