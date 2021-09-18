@@ -71,7 +71,7 @@ ssh-copy-id -i .ssh/id_rsa.pub root@yavace3
 ```
 Uji coba koneksi
 ```bash
-ssh root@yavace
+ssh root@yavace3.labs247.id
 ```
 13. Restart server
 ```bash
