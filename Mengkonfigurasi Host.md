@@ -67,7 +67,7 @@ ssh-keygen
 ```
 Copy ssh ke localhost
 ```bash
-ssh-copy-id -i .ssh/id_rsa.pub root@yavace3
+ssh-copy-id -i .ssh/id_rsa.pub root@yavace3.labs247.id
 ```
 Uji coba koneksi
 ```bash
