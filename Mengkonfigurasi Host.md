@@ -10,6 +10,14 @@ Sebelum kita melakukan instalasi YavaCE, kita harus mempersiapkan beberapa hal s
 ```bash
 hostnamectl set-hostname yavace3.labs247.id
 ```
+Pastikan pada /etc/hosts terdaftar ip dan hostname yang digunakan
+```bash
+vi /etc/host
+```
+tambahkan 
+```bash
+<ip-addr> yavace3.labs247.id yavace3
+```
 3. Install epel repository
 ```bash
 yum install -y  epel-release
