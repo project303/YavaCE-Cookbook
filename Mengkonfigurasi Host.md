@@ -60,7 +60,20 @@ sed -i 's/^SELINUX=.*/SELINUX=disabled/' /etc/selinux/config
 ```bash
 echo umask 0022 >> /etc/profile
 ```
-12. Restart server
+12. Buat passwordless ssh connection ke local server
+Jalankan perintah berikut dan ikuti default konfigurasinya
+```bash
+ssh-keygen
+```
+Copy ssh ke localhost
+```bash
+ssh-copy-id -i .ssh/id_rsa.pub root@yavace3
+```
+Uji coba koneksi
+```bash
+ssh root@yavace
+```
+13. Restart server
 ```bash
 shutdown -r now
 ```
