@@ -19,7 +19,7 @@ wget http://files.grouplens.org/datasets/movielens/ml-latest-small.zip -P datase
 ```
 4. Verifikasi file yang telah kita download
 ```bash
-ls -lah -P dataset
+ls -lah dataset
 ```
 5. Lakukan ekstrasi file dan periksa hasil ekstrasinya
 ```bash
