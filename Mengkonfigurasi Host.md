@@ -34,7 +34,7 @@ yum install -y wget
 6. YavaCE sangat disarankan menggunakan OpenJDK 1.8
 ```bash
 yum install -y java-1.8.0-openjdk
-yum install java-1.8.0-openjdk-devel
+yum install -y java-1.8.0-openjdk-devel
 ```
 7. Setelah selesai menginstall OpenJDK, lakukan konfigurasi pada shell yang kita menggunakan
 ```bash
