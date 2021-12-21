@@ -27,7 +27,7 @@ yarn jar /usr/yava/3.0.0.0-0000/hadoop-mapreduce/hadoop-mapreduce-examples.jar t
 yarn jar /usr/yava/3.0.0.0-0000/hadoop-mapreduce/hadoop-mapreduce-examples.jar teravalidate /user/yava/teragen/output /user/yava/teragen/validate
 ```
 5. Catat total waktu, dan bisa dibandingkan dengan membuat data yang lebih besar dengan mengubah parameter pada teragen :
-    - 10000.000 untuk 1G
+    - 10000000 untuk 1G
     - 100000000 untuk 10G
     - 1000000000 untuk 100G
     - 10000000000 untuk 1TB
