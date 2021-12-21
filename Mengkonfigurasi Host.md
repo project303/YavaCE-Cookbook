@@ -6,7 +6,7 @@ Sebelum kita melakukan instalasi YavaCE, kita harus mempersiapkan beberapa hal s
 ## Langka-langkah
 
 1. Log in ke dalam server sebagai root
-2. Ubah nama server sesuai dengan keinginan. Saat ini kita akan memberi nama server yavace3.labs247.id. Lakukan perintah berikut
+2. Ubah nama server sesuai dengan keinginan. Misalkan server akan kita beri nama yavace3.labs247.id, maka lakukan perintah berikut
 ```bash
 hostnamectl set-hostname yavace3.labs247.id
 ```
@@ -18,6 +18,9 @@ tambahkan
 ```bash
 <ip-addr> yavace3.labs247.id yavace3
 ```
+<ip-addr> diganti dengan alamat ip server, tanpa menggunakan tanda <>
+  
+
 3. Install epel repository
 ```bash
 yum install -y  epel-release
