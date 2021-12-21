@@ -12,7 +12,7 @@ hostnamectl set-hostname yavace3.labs247.id
 ```
 Pastikan pada /etc/hosts terdaftar ip dan hostname yang digunakan
 ```bash
-vi /etc/host
+vi /etc/hosts
 ```
 tambahkan 
 ```bash
