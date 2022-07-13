@@ -55,7 +55,7 @@ hdfs dfs -tail dataset/movies.csv
 ```bash
 hdfs dfs -cat dataset/movies.csv | wc -l
 ```
-13. Buat direktory movielens/movies
+13. Buat direktori movielens/movies
 ```bash
 hdfs dfs -mkdir -p movielens/movies
 ```
